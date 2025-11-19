@@ -1,8 +1,8 @@
 ## Grupo: Carla Lima (1139025) e Rafaela Davesac (1138820)
 
-## Banco de dados utilizado: 
+# Banco de dados utilizado: 
 Estelionato
-## Coluna utilizada: 
+# Coluna utilizada: 
 'Qual foi o último tipo de golpe que você presenciou ou foi vítima?'
 
 ## Justificativa:
