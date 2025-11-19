@@ -5,7 +5,7 @@
 'Qual foi o último tipo de golpe que você presenciou ou foi vítima?'
 
 ## Justificativa:
-Quantificar a frequência relativa de cada tipo de golpe permite observar quais são os ataques com mais aplicados com sucesso
+Quantificar a frequência relativa de cada tipo de golpe permite observar quais são os ataques mais aplicados com sucesso
 
 ## Análises que essa conversão possibilita:
 - Identificar os golpes mais comuns
