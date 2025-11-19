@@ -1,5 +1,8 @@
-# Banco de dados: Estelionato
-## Coluna utilizada: 'Qual foi o último tipo de golpe que você presenciou ou foi vítima?'
+## Grupo: Carla Lima (1139025) e Rafaela Davesac (1138820)
+
+## Banco de dados: Estelionato
+## Coluna utilizada: 
+'Qual foi o último tipo de golpe que você presenciou ou foi vítima?'
 
 ## Justificativa:
 Quantificar a frequência relativa de cada tipo de golpe permite observar quais são os ataques com mais aplicados com sucesso
